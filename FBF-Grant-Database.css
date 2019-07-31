@@ -42,12 +42,16 @@ div#controlers2 {
 
 
 div#controlers3 {
-    width: 49% !important;
+    width: 50% !important;
  }
 
 @media screen and (max-width: 900px) {
 
 div#controlers3 {
+    width: 100% !important;}
+
+}
+div#controlers2 {
     width: 100% !important;}
 
 }
